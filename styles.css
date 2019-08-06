@@ -1,0 +1,39 @@
+h3{border: 2px solid lightgrey;
+  text-align: center;
+  font-variant-caps: small-caps;
+  width: 75px;
+  height: 25px;
+  background-color: lightblue;
+}
+
+html{
+  border: 2px solid lightgrey;
+  width: 350px;
+  height: 700px;
+}
+
+img{margin-left: 15px;
+  width: 300px;
+  height: 200px;
+}
+
+.container{padding: 10px;
+  border: 2px solid lightgrey;
+  width: 300px;
+  height: 370px;
+  margin: 5px;
+  background-color: lightblue;
+}
+
+.italic-style{font-style: italic;}
+
+.justify_style{text-align: justify;}
+
+span{font-weight: bold;
+}
+
+ul{padding-left: 0px;
+}
+
+li{list-style: none;
+}
